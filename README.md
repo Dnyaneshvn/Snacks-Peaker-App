@@ -1,6 +1,6 @@
-# first_app
+# Snacks-Peaker_App
 
-A new Flutter project.
+A new Flutter project specifically for beginners!
 
 ## Getting Started
 
